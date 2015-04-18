@@ -2,27 +2,28 @@
 
 (provide (rename-out
           ;; macros
-          [define คือ]
-          [define-struct คือ-ร่าง]
-          [define/match คือ/คู่]
-          [require จำ]
-          [let ยอม]
-          [lambda ลำบดา]
-          [for สาธก] ; ...
+          [define คือ] ; kheuu
+          [define-struct คือ-ร่าง] ; kheuu-raang
+          [define/match คือ/คู่] ; kheuu / khu`
+          [require จำ] ; jam
+          [let ยอม] ; yaawm
+          [lambda ลำดา] ; lamda
+          [for สาธก] ; saa/ thok'
           [for/fold สาธก/พับ]
-          [if ภ้า]
+          [if ภ้า] ; thaa\
           ;; procedures
-          [append ผนวก]
-          [cons ขอนส]
-          [list ราย]
-          [list-ref ราย-หา]
-          [random ดะ]
-          [string->list สาย->ราย]
-          [string-append สาย-ผนวก]
-          [> กว่า]
-          [length ยาว]
-          [string สาย]
-          [string-length สาย-ยาว]
+          [append ผนวก] ; pha` nuaak`
+          [cons ขอนส] ; cons
+          [list ราย] ; raai
+          [list-ref ราย-หา] ; raai haa/
+          [string สาย] ; sai/
+          [string->list สาย->ราย] ; sai/ -> raai
+          [string-append สาย-ผนวก] ; sai/ - pha` nuaak`
+          [string-length สาย-ยาว] ; sai/ - yaao
+          [number->string เบอร์-สาย] ; buuhr -> sai/
+          [> กว่า] ; gwaa`
+          [length ยาว] ; yaao
+          [random ดะ] ; dta`
           ;; universe
           ;; [above/align]
           ;; [big-bang]

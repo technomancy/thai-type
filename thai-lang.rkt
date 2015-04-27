@@ -14,6 +14,7 @@
           ;; procedures
           [append ผนวก] ; pha` nuaak`
           [cons ขอนส] ; cons
+          [curry แกง] ; gaaeng
           [list ราย] ; raai
           [list-ref ราย-หา] ; raai haa/
           [string สาย] ; sai/
